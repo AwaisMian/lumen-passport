@@ -18,6 +18,22 @@
             "url":  "git@github.com:awaismuha/passport.git"
         }
     ],
+
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "awaismuha/passport",
+                "version": "8.0.4",
+                "source": {
+                    "url": "https://github.com/awaismuha/passport.git",
+                    "type": "git",
+                    "reference": "8.0"
+                }
+            }
+        }
+    ],
+
     "require": {
         "php": ">=5.6.4",
         "illuminate/database": "~5.3|~5.4|~5.5|~5.6|~6.0",
