@@ -1,6 +1,6 @@
 {
     "name": "awaismuha/lumen-passport",
-    "type": "library",
+    "type": "project",
     "description": "Making Laravel Passport work with Lumen",
     "keywords": ["php","lumen","laravel passport"],
     "homepage": "https://github.com/dusterio/lumen-passport",
