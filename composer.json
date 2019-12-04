@@ -28,13 +28,5 @@
         "fzaninotto/faker": "~1.4",
         "phpunit/phpunit": "~5.0",
         "codeclimate/php-test-reporter": "dev-master"
-    },
-    "autoload": {
-        "psr-4": {
-            "Dusterio\\LumenPassport\\": "src/"
-        },
-         "files": [
-            "src/helpers.php"
-        ]
     }
 }
